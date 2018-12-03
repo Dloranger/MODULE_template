@@ -2,6 +2,8 @@ These audio files were generated using the "<voice name>" voice package from "vo
 
 each audio file should have a text file with the audio files verbiage for reference and to ease regeneration into other languages
 
+The format must be wave and 16k sample rate or they will not be playable and you will see errors in the logs.
+
 required audio files
 name.wav - vocalization of the name of the module, in this example the sound of the word "template"
 name.txt - "template"
